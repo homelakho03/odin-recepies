@@ -1,1 +1,1 @@
-# odin-recepies
+This is first assignment from The Odin Project, it required basic git, github and html skills and basic understanding of the web. It is fairly easy one for the people with a little bit of html under the sleve.
